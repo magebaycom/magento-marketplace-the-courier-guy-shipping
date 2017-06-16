@@ -14,7 +14,7 @@
 	<li>Administrators can enable or disable the Magento Marketplace The Courier Guy Shipping</li>
 </ul>
 
-<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-wepay-payment-gateway">Magento Marketplace WePay Payment Gateway</a></strong></p>
+<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento-marketplace-event-manager-plugin/">Marketplace Event Manager For Magento</a></strong></p>
 
 <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
